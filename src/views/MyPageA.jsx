@@ -1,5 +1,5 @@
 import React from 'react'
-import Hello from '../assets/imgA/Hello.png'
+import Hello from '../assets/imgA/hello.png'
 import Profile from '../assets/imgA/Profile.png'
 import { FaGithub, FaInstagram, FaTwitter, FaLinkedin } from "react-icons/fa";
 
