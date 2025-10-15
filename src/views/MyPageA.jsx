@@ -1,6 +1,6 @@
 import React from 'react'
 import Hello from '../assets/imgA/hello.png'
-import Profile from '../assets/imgA/Profile.png'
+import Profile from '../assets/imgA/profile.png'
 import { FaGithub, FaInstagram, FaTwitter, FaLinkedin } from "react-icons/fa";
 
 export default function MyPageA() {
